@@ -50,6 +50,8 @@
 ============================================================================
  
  A fritzing diagram. I'm using the wrong micro in this image. It's the only one I could find which lined up for the pins.
+ The pro micro pins 2-5 are reading the columns, pins 6-9 are reading the rows. (I used a library, so I don't know which pins are high/low and which pins are read)
+ The switch has power going to the center pin and led's attached to the sides so the switch supplies power - one arm of the switch is attached to pin 10 which also has a 10k pull down resistor attached to ground.
  ![fritz](https://user-images.githubusercontent.com/39419544/109363481-8fcd9b00-78f1-11eb-89c5-80b19dbe5c40.JPG)
 The wires are crossing over because the keypad is flipped in my application (set into the lid of a flip open box).
 
