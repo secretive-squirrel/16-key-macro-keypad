@@ -51,11 +51,11 @@
  
  A fritzing diagram. I'm using the wrong micro in this image. It's the only one I could find which lined up for the pins.
  ![fritz](https://user-images.githubusercontent.com/39419544/109363481-8fcd9b00-78f1-11eb-89c5-80b19dbe5c40.JPG)
-The wires are crossing over because the keypad is flipped in my application.
+The wires are crossing over because the keypad is flipped in my application (set into the lid of a flip open box).
 
 This is what it looks like in real life.
 ![20210227_115017](https://user-images.githubusercontent.com/39419544/109363846-5f3a3100-78f2-11eb-9446-2093c213a6dd.jpg)
-A more normal schematic.
+A more normal schematic - though I'm missing the 10k pull down resistor attached to pin 10 here.
 ![20210222_085715](https://user-images.githubusercontent.com/39419544/109363817-4df12480-78f2-11eb-9ef9-15ef679e697b.jpg)
-Asthetics n' all that.
+Asthetics n' all that, I used an old protractor case for my build. It's got rubber feet so as it skates about my desk less.
 ![20210226_191347](https://user-images.githubusercontent.com/39419544/109363836-5a757d00-78f2-11eb-8fe1-45667ed55e22.jpg)
