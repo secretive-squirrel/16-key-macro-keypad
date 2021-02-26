@@ -1,7 +1,7 @@
 # 16-key-macro-keypad
 16 key macro keypad for Arduino Pro Micro
 
-============================================================================
+
      SECRETIVE SQUIRREL STUDIOS ~ LAZY EDITING KEYPAD
      Code for Pro-Micro (32u4 processor)
      Currently set up for Photoshop.
