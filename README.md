@@ -49,5 +49,6 @@
     
 ============================================================================
  
- 
- 
+ A fritzing diagram.
+ ![fritz](https://user-images.githubusercontent.com/39419544/109363481-8fcd9b00-78f1-11eb-89c5-80b19dbe5c40.JPG)
+The wires are crossing over because the keypad is flipped in my application.
