@@ -8,7 +8,7 @@
      
      Instantiates a 4x4 button matrix and sends keyboard 
      commands/presses to the computer when buttons are pressed.
-     This is set up for single keypresses only.
+     This is set up for single button presses only.
      
      This was set up for Windows - Some key addresses may be 
      different in Mac, read up on the <KEYBOARD> Arduino 
